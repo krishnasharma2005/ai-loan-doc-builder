@@ -4,7 +4,7 @@ A desktop-based, AI-enabled application that automates the creation, validation,
 
 ---
 
-## 🚀 Problem Statement
+## Problem Statement
 
 Loan document creation in banks, NBFCs, and fintech companies is:
 - Highly manual and time-consuming
@@ -16,7 +16,7 @@ This leads to **delays, higher operational costs, and increased risk exposure**.
 
 ---
 
-## 💡 Solution Overview
+## Solution Overview
 
 The **AI-Powered Loan Document Builder** is a desktop application that:
 - Automatically generates structured loan agreements
@@ -28,7 +28,7 @@ The system is designed as a **commercially viable internal tool** for lenders an
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 - **Loan Document Generation**
   - Create loan agreements using structured borrower and loan inputs
@@ -51,7 +51,7 @@ The system is designed as a **commercially viable internal tool** for lenders an
   - Works as a standalone desktop tool
 
 ---
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -72,7 +72,7 @@ The system is designed as a **commercially viable internal tool** for lenders an
 
 ---
 
-## 📈 Commercial Viability
+## Commercial Viability
 
 ### Value Proposition
 - Reduces loan document creation time from hours to minutes
