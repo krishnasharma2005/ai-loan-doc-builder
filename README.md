@@ -53,7 +53,7 @@ The system is designed as a **commercially viable internal tool** for lenders an
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React
@@ -74,7 +74,7 @@ The system is designed as a **commercially viable internal tool** for lenders an
 
 ---
 
-## 📈 Commercial Viability
+## Commercial Viability
 
 ### Value Proposition
 - Reduces loan document creation time from hours to minutes
