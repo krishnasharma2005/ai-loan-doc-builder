@@ -1,0 +1,43 @@
+body {
+  background: #f4f6f9;
+  font-family: Segoe UI;
+}
+
+.header {
+  background: #0f172a;
+  color: white;
+  padding: 16px;
+  font-weight: bold;
+}
+
+.page {
+  max-width: 900px;
+  margin: 40px auto;
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  margin-right: 10px;
+}
+
+.primary-btn {
+  background: #2563eb;
+  color: white;
+}
+
+.secondary-btn {
+  background: #475569;
+  color: white;
+}
